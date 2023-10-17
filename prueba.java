@@ -4,7 +4,7 @@ public class prueba {
 
 		System.out.println("Deporte favorito: Tenis de mesa");
 		System.out.println("Llugar favorito: El parque");
-		
+		System.out.println("Red social favorita: YouTube");
 
 	}
 }
